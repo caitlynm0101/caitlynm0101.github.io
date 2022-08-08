@@ -1,12 +1,25 @@
 body {
- background-color: powderblue;
+ background-color: black;
 }
 h1 {
- color: blue;
+ color: goldenrod;
 }
 p {
- color: red;
+ color: darkgoldenrod;
 }
 #links {
- color:green
+ color:goldenrod
+}
+head {
+  color: goldenrod;
+}
+ol {
+  color: darkgoldenrod;
+}
+label {
+  color: darkgoldenrod;
+}
+
+h2 {
+  color: goldenrod;
 }
